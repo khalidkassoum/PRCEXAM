@@ -1,5 +1,4 @@
 import requests
-
 class ExamAPI:
     BASE_URL = "https://api.whenisthenextboardexam.com"
 
